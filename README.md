@@ -113,5 +113,3 @@ python extract_gene_positions.py
 * Designed for Excel-based genomic workflows
 
 ---
-
-Just tell me.
